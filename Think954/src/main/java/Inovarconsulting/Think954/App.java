@@ -9,8 +9,8 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-            System.out.println( "Tinnavaraa" );
+            System.out.println( "practise git" );
     
-        System.out.println("Vadilastunava");
+        System.out.println("git tutorials");
     }
 }
